@@ -1,0 +1,7 @@
+title: ENGL 1102 Portfolio
+author: James Kerrane
+description: Personal, multimodal portfolio for ENGL 1102 at Georgia Tech, taken Fall 2024
+show_downloads: true
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
