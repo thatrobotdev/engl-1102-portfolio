@@ -1,7 +1,4 @@
----
----
-
-@import "{{ site.theme }}";
+--- --- @import "{{ site.theme }}";
 
 // Add two-column layout for content and navbar
 
@@ -11,14 +8,14 @@
 
     /* Responsive layout - makes a one column layout instead of a two-column layout */
     @media (max-width: 1200px) {
-      flex-direction: column;
+        flex-direction: column;
     }
 }
-  
+
 #content {
     flex: 3;
 }
-  
+
 #page-navigation {
     flex: 1;
 }
